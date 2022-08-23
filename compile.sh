@@ -5,3 +5,5 @@ cc chapter1/input/getchar.c -o compiled/getchar
 # Pointer compile
 cc pointers/pointer.c -o compiled/pointer
 cc pointers/swap.c -o compiled/swap
+# Structs compile
+cc structs/structs.c -o compiled/structs
